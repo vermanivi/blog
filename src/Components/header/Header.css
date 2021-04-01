@@ -1,0 +1,8 @@
+.header-wrapper {}
+
+.header-content {
+    padding: 18px;
+    color: var(--violet);
+    display: flex;
+    justify-content: space-between;
+}
