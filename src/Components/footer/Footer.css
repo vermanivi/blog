@@ -1,0 +1,15 @@
+.footer-wrapper {
+    background-color: aqua;
+}
+
+.footer-list {
+    padding: 18px;
+    color: var(--violet);
+    display: flex;
+    margin-left: auto;
+    width: fit-content;
+}
+
+.footer-list li {
+    margin-right: 16px;
+}
